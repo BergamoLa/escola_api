@@ -1,0 +1,267 @@
+>> ESCOLA API http://127.0.0.1:5000
+ * Restarting with stat
+>> ESCOLA API http://127.0.0.1:5000
+ * Debugger is active!
+ * Debugger PIN: 188-975-186
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [25/Nov/2020 14:45:54] "[33mGET / HTTP/1.1[0m" 404 -
+127.0.0.1 - - [25/Nov/2020 14:45:59] "[37mGET /api/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 14:45:59] "[37mGET /api/swagger.json HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 14:46:06] "[35m[1mGET /api/curso/ HTTP/1.1[0m" 500 -
+ * Detected change in 'C:\\Users\\Python\\Desktop\\escola_api\\api\\service\\curso_service.py', reloading
+ * Restarting with stat
+>> ESCOLA API http://127.0.0.1:5000
+ * Debugger is active!
+ * Debugger PIN: 188-975-186
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [25/Nov/2020 14:47:49] "[33mGET / HTTP/1.1[0m" 404 -
+127.0.0.1 - - [25/Nov/2020 14:47:56] "[37mGET /api/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 14:47:56] "[37mGET /api/swagger.json HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 14:48:15] "[37mGET /api/curso/5 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 14:48:52] "[35m[1mGET /api/curso/ HTTP/1.1[0m" 500 -
+127.0.0.1 - - [25/Nov/2020 14:48:52] "[37mGET /api/curso/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 14:48:52] "[37mGET /api/curso/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 14:48:52] "[37mGET /api/curso/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 14:48:52] "[37mGET /api/curso/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 14:48:53] "[37mGET /api/curso/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+ * Detected change in 'C:\\Users\\Python\\Desktop\\escola_api\\api\\controller\\curso_dao.py', reloading
+ * Restarting with stat
+>> ESCOLA API http://127.0.0.1:5000
+ * Debugger is active!
+ * Debugger PIN: 188-975-186
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Detected change in 'C:\\Users\\Python\\Desktop\\escola_api\\api\\controller\\curso_dao.py', reloading
+ * Restarting with stat
+>> ESCOLA API http://127.0.0.1:5000
+ * Debugger is active!
+ * Debugger PIN: 188-975-186
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+>> ESCOLA API http://127.0.0.1:5000
+ * Restarting with stat
+>> ESCOLA API http://127.0.0.1:5000
+ * Debugger is active!
+ * Debugger PIN: 188-975-186
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [25/Nov/2020 14:51:37] "[33mGET / HTTP/1.1[0m" 404 -
+127.0.0.1 - - [25/Nov/2020 14:51:45] "[37mGET /api/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 14:51:45] "[37mGET /api/swagger.json HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 14:51:50] "[35m[1mGET /api/curso/ HTTP/1.1[0m" 500 -
+127.0.0.1 - - [25/Nov/2020 14:54:47] "[37mGET /api/curso/6 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 15:01:12] "[35m[1mGET /api/curso/ HTTP/1.1[0m" 500 -
+127.0.0.1 - - [25/Nov/2020 15:01:12] "[35m[1mGET /api/curso/ HTTP/1.1[0m" 500 -
+127.0.0.1 - - [25/Nov/2020 15:01:38] "[37mGET /api/curso/1 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 15:01:53] "[37mGET /api/curso/2 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 15:02:04] "[35m[1mGET /api/curso/ HTTP/1.1[0m" 500 -
+127.0.0.1 - - [25/Nov/2020 15:02:04] "[37mGET /api/curso/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 15:02:04] "[37mGET /api/curso/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 15:02:04] "[37mGET /api/curso/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 15:02:05] "[37mGET /api/curso/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 15:02:05] "[37mGET /api/curso/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 15:02:11] "[37mGET /api/curso/1 HTTP/1.1[0m" 200 -
+ * Detected change in 'C:\\Users\\Python\\Desktop\\escola_api\\api\\service\\curso_service.py', reloading
+ * Restarting with stat
+>> ESCOLA API http://127.0.0.1:5000
+ * Debugger is active!
+ * Debugger PIN: 188-975-186
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [25/Nov/2020 15:03:01] "[33mGET / HTTP/1.1[0m" 404 -
+127.0.0.1 - - [25/Nov/2020 15:03:08] "[37mGET /api/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 15:03:09] "[37mGET /api/swagger.json HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 15:03:19] "[31m[1mPOST /api/curso/ HTTP/1.1[0m" 406 -
+127.0.0.1 - - [25/Nov/2020 15:04:43] "[31m[1mPUT /api/curso/ HTTP/1.1[0m" 406 -
+127.0.0.1 - - [25/Nov/2020 15:05:23] "[33mGET /api/cursos/ HTTP/1.1[0m" 404 -
+127.0.0.1 - - [25/Nov/2020 15:05:23] "[33mGET /api/cursos/ HTTP/1.1[0m" 404 -
+127.0.0.1 - - [25/Nov/2020 15:06:12] "[33mPOST /api/cursos/ HTTP/1.1[0m" 404 -
+127.0.0.1 - - [25/Nov/2020 15:06:39] "[37mPOST /api/curso/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 15:06:40] "[37mPOST /api/curso/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 15:07:28] "[35m[1mGET /api/curso/ HTTP/1.1[0m" 500 -
+127.0.0.1 - - [25/Nov/2020 15:07:28] "[37mGET /api/curso/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 15:07:28] "[37mGET /api/curso/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 15:07:28] "[37mGET /api/curso/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 15:07:28] "[37mGET /api/curso/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 15:07:28] "[37mGET /api/curso/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+ * Detected change in 'C:\\Users\\Python\\Desktop\\escola_api\\api\\service\\curso_service.py', reloading
+ * Restarting with stat
+>> ESCOLA API http://127.0.0.1:5000
+ * Debugger is active!
+ * Debugger PIN: 188-975-186
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Detected change in 'C:\\Users\\Python\\Desktop\\escola_api\\api\\service\\curso_service.py', reloading
+ * Restarting with stat
+>> ESCOLA API http://127.0.0.1:5000
+ * Debugger is active!
+ * Debugger PIN: 188-975-186
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [25/Nov/2020 15:10:41] "[35m[1mGET /api/curso/ HTTP/1.1[0m" 500 -
+127.0.0.1 - - [25/Nov/2020 15:10:42] "[37mGET /api/curso/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 15:10:42] "[37mGET /api/curso/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 15:10:42] "[37mGET /api/curso/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 15:10:42] "[37mGET /api/curso/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 15:10:42] "[37mGET /api/curso/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+ * Detected change in 'C:\\Users\\Python\\Desktop\\escola_api\\api\\service\\curso_service.py', reloading
+ * Restarting with stat
+>> ESCOLA API http://127.0.0.1:5000
+ * Debugger is active!
+ * Debugger PIN: 188-975-186
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+>> ESCOLA API http://127.0.0.1:5000
+ * Restarting with stat
+>> ESCOLA API http://127.0.0.1:5000
+ * Debugger is active!
+ * Debugger PIN: 188-975-186
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [25/Nov/2020 15:12:49] "[33mGET / HTTP/1.1[0m" 404 -
+127.0.0.1 - - [25/Nov/2020 15:12:56] "[37mGET /api/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 15:12:56] "[37mGET /api/swagger.json HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 15:13:09] "[35m[1mGET /api/curso/ HTTP/1.1[0m" 500 -
+127.0.0.1 - - [25/Nov/2020 15:13:33] "[37mGET /api/swagger.json HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 15:14:42] "[37mGET /api/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 15:14:42] "[37mGET /api/swaggerui/swagger-ui-standalone-preset.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 15:14:42] "[37mGET /api/swaggerui/swagger-ui.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 15:14:42] "[37mGET /api/swaggerui/swagger-ui-bundle.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 15:14:42] "[37mGET /api/swaggerui/droid-sans.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 15:14:43] "[37mGET /api/swagger.json HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 15:15:00] "[32mGET /api/curso HTTP/1.1[0m" 308 -
+127.0.0.1 - - [25/Nov/2020 15:15:01] "[35m[1mGET /api/curso/ HTTP/1.0[0m" 500 -
+127.0.0.1 - - [25/Nov/2020 15:15:01] "[37mGET /api/curso/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 15:15:01] "[37mGET /api/curso/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 15:15:01] "[37mGET /api/curso/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 15:15:01] "[37mGET /api/curso/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 15:15:01] "[37mGET /api/curso/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+ * Detected change in 'C:\\Users\\Python\\Desktop\\escola_api\\api\\service\\curso_service.py', reloading
+ * Restarting with stat
+>> ESCOLA API http://127.0.0.1:5000
+ * Debugger is active!
+ * Debugger PIN: 188-975-186
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [25/Nov/2020 15:20:57] "[37mPOST /api/curso/ HTTP/1.1[0m" 200 -
+ * Detected change in 'C:\\Users\\Python\\Desktop\\escola_api\\api\\controller\\curso_dao.py', reloading
+ * Restarting with stat
+>> ESCOLA API http://127.0.0.1:5000
+ * Debugger is active!
+ * Debugger PIN: 188-975-186
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+>> ESCOLA API http://127.0.0.1:5000
+ * Restarting with stat
+>> ESCOLA API http://127.0.0.1:5000
+ * Debugger is active!
+ * Debugger PIN: 188-975-186
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [25/Nov/2020 15:22:07] "[33mGET / HTTP/1.1[0m" 404 -
+127.0.0.1 - - [25/Nov/2020 15:22:10] "[37mGET /api/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 15:22:10] "[37mGET /api/swagger.json HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 15:22:18] "[37mGET /api/curso/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 15:22:36] "[37mGET /api/curso/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 15:22:59] "[37mGET /api/curso/?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 15:22:59] "[37mGET /api/curso/?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 15:22:59] "[37mGET /api/curso/?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 15:22:59] "[37mGET /api/curso/?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 15:22:59] "[37mGET /api/curso/?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 15:23:00] "[32mGET /api/curso HTTP/1.1[0m" 308 -
+127.0.0.1 - - [25/Nov/2020 15:23:00] "[37mGET /api/curso/ HTTP/1.0[0m" 200 -
+>> ESCOLA API http://127.0.0.1:5000
+ * Restarting with stat
+>> ESCOLA API http://127.0.0.1:5000
+ * Debugger is active!
+ * Debugger PIN: 188-975-186
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [25/Nov/2020 15:23:53] "[33mGET / HTTP/1.1[0m" 404 -
+127.0.0.1 - - [25/Nov/2020 15:23:59] "[37mGET /api/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 15:23:59] "[37mGET /api/swagger.json HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 15:24:09] "[37mGET /api/curso/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 15:24:46] "[31m[1mPUT /api/curso/ HTTP/1.1[0m" 406 -
+127.0.0.1 - - [25/Nov/2020 15:26:32] "[37mGET /api/curso/1 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 15:26:41] "[37mGET /api/curso/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 15:26:53] "[37mPOST /api/curso/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 15:26:59] "[37mGET /api/curso/1 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 15:27:03] "[37mGET /api/curso/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 15:28:45] "[31m[1mPUT /api/curso/ HTTP/1.1[0m" 406 -
+>> ESCOLA API http://127.0.0.1:5000
+ * Restarting with stat
+>> ESCOLA API http://127.0.0.1:5000
+ * Debugger is active!
+ * Debugger PIN: 188-975-186
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [25/Nov/2020 16:14:23] "[33mGET / HTTP/1.1[0m" 404 -
+127.0.0.1 - - [25/Nov/2020 16:14:27] "[37mGET /api/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 16:14:27] "[37mGET /api/swagger.json HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 16:14:39] "[35m[1mGET /api/aluno/ HTTP/1.1[0m" 500 -
+ * Detected change in 'C:\\Users\\Python\\Desktop\\escola_api\\api\\controller\\aluno_dao.py', reloading
+ * Restarting with stat
+>> ESCOLA API http://127.0.0.1:5000
+ * Debugger is active!
+ * Debugger PIN: 188-975-186
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Detected change in 'C:\\Users\\Python\\Desktop\\escola_api\\api\\controller\\aluno_dao.py', reloading
+ * Restarting with stat
+>> ESCOLA API http://127.0.0.1:5000
+ * Debugger is active!
+ * Debugger PIN: 188-975-186
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [25/Nov/2020 16:19:48] "[33mGET / HTTP/1.1[0m" 404 -
+127.0.0.1 - - [25/Nov/2020 16:19:53] "[37mGET /api/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 16:19:53] "[37mGET /api/swagger.json HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 16:20:22] "[35m[1mGET /api/aluno/1 HTTP/1.1[0m" 500 -
+ * Detected change in 'C:\\Users\\Python\\Desktop\\escola_api\\api\\controller\\aluno_dao.py', reloading
+ * Restarting with stat
+>> ESCOLA API http://127.0.0.1:5000
+ * Debugger is active!
+ * Debugger PIN: 188-975-186
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [25/Nov/2020 16:23:19] "[33mGET / HTTP/1.1[0m" 404 -
+127.0.0.1 - - [25/Nov/2020 16:23:24] "[37mGET /api/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 16:23:24] "[37mGET /api/swagger.json HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 16:23:29] "[37mGET /api/curso/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 16:23:35] "[37mGET /api/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 16:23:35] "[37mGET /api/swagger.json HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 16:23:43] "[35m[1mGET /api/aluno/ HTTP/1.1[0m" 500 -
+ * Detected change in 'C:\\Users\\Python\\Desktop\\escola_api\\api\\model\\aluno.py', reloading
+ * Restarting with stat
+>> ESCOLA API http://127.0.0.1:5000
+ * Debugger is active!
+ * Debugger PIN: 188-975-186
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Detected change in 'C:\\Users\\Python\\Desktop\\escola_api\\api\\controller\\aluno_dao.py', reloading
+ * Restarting with stat
+>> ESCOLA API http://127.0.0.1:5000
+ * Debugger is active!
+ * Debugger PIN: 188-975-186
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [25/Nov/2020 16:25:55] "[37mGET /api/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 16:25:55] "[37mGET /api/swagger.json HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 16:26:04] "[37mGET /api/aluno/ HTTP/1.1[0m" 200 -
+>> ESCOLA API http://127.0.0.1:5000
+ * Restarting with stat
+>> ESCOLA API http://127.0.0.1:5000
+ * Debugger is active!
+ * Debugger PIN: 188-975-186
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [25/Nov/2020 16:28:12] "[33mGET / HTTP/1.1[0m" 404 -
+127.0.0.1 - - [25/Nov/2020 16:28:18] "[33mGET / HTTP/1.1[0m" 404 -
+127.0.0.1 - - [25/Nov/2020 16:28:22] "[37mGET /api/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 16:28:22] "[37mGET /api/swagger.json HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 16:28:29] "[37mGET /api/aluno/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 16:29:25] "[37mGET /api/curso/5 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 16:29:59] "[37mGET /api/aluno/5 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 16:33:34] "[37mGET /api/aluno/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 16:56:23] "[31m[1mPOST /api/aluno/ HTTP/1.1[0m" 406 -
+>> ESCOLA API http://127.0.0.1:5000
+ * Restarting with stat
+>> ESCOLA API http://127.0.0.1:5000
+ * Debugger is active!
+ * Debugger PIN: 188-975-186
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [25/Nov/2020 17:03:51] "[33mGET / HTTP/1.1[0m" 404 -
+127.0.0.1 - - [25/Nov/2020 17:03:54] "[37mGET /api/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 17:03:54] "[37mGET /api/swagger.json HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 17:04:04] "[37mGET /api/curso/ HTTP/1.1[0m" 200 -
+>> ESCOLA API http://127.0.0.1:5000
+ * Restarting with stat
+>> ESCOLA API http://127.0.0.1:5000
+ * Debugger is active!
+ * Debugger PIN: 188-975-186
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [25/Nov/2020 17:07:07] "[37mPOST /api/aluno/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 17:07:19] "[37mGET /api/aluno/ HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 17:25:20] "[37mGET /api/curso/5 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/Nov/2020 17:26:14] "[37mGET /api/aluno/ HTTP/1.1[0m" 200 -
